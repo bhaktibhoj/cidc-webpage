@@ -1,7 +1,7 @@
 node {
     		
     stage("Git Clone"){
-		sh 'ls -ltr ./'
+		sh 'ls -ltr '
     }
     
 	
